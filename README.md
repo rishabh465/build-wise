@@ -1,4 +1,4 @@
-# BuildWise : an Ai powered Construction Cost Estimator and Optimizer for Civil Engineer
+# BuildWise : an Ai powered Construction Cost Estimator and Optimizer for Civil Engineering professionals and students
 
 A web application built to estimate and optimize construction costs.
 
